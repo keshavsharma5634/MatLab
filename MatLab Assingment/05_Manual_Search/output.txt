@@ -1,0 +1,2 @@
+Value 10 found at first position: 1
+Total occurrences of 10: 4

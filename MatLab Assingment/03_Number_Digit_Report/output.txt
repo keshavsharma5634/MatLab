@@ -1,0 +1,7 @@
+Original Number: 101
+Number of Digits: 3
+Sum of Digits: 2
+Count of Even Digits: 1
+Count of Odd Digits: 2
+Reversed Number: 101
+Is Palindrome: Yes

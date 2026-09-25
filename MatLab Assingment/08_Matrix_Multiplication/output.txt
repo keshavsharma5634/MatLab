@@ -1,0 +1,9 @@
+Manual Result:
+14	9	
+42	27	
+
+MATLAB Built-in Result:
+14	9	
+42	27	
+
+Match Status: Both results MATCH perfectly!

@@ -1,0 +1,12 @@
+
+Raw Input Marks:
+30 16 96 48 110 35 60 74 25 40 Total Entries Read : 10
+Valid Marks Count  : 9
+Invalid Entries    : 1
+Total Valid Marks  : 424
+Average Mark       : 47.11
+Highest Mark       : 96
+Lowest Mark        : 16
+Pass Count         : 5
+Fail Count         : 4
+Overall Status     : PASS

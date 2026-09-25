@@ -1,0 +1,12 @@
+Testing Input: 5
+Result: Factorial of 6 is: 720
+
+Testing Input: 0
+Result: Factorial of 0 is: 1
+
+Testing Input: -2
+Result: Invalid Input (Rejected)
+
+Testing Input: 4.6
+Result: Invalid Input (Rejected)
+

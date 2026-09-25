@@ -1,0 +1,20 @@
+20 
+7 
+10 
+55 
+-8 
+0 
+69 
+-23 
+2 
+-50 
+6 
+0 
+Total Elements : 12
+Positive Count : 7
+Negative Count : 3
+Zero Count     : 2
+Sum            : 88
+Average        : 7.33
+Minimum        : -50
+Maximum        : 69

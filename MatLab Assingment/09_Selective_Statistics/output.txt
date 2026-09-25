@@ -1,0 +1,3 @@
+Count of Positive Values: 6
+Sum of Positive Values  : 29
+Average of Positive Values: 4.83

@@ -1,0 +1,5 @@
+Row 1: Sum: 6, Average: 2, Maximum: 3
+Row 2: Sum: 15, Average: 5, Maximum: 6
+Row 3: Sum: 24, Average: 8, Maximum: 9
+
+Row with Highest Row-Sum is Row: 3

@@ -1,0 +1,8 @@
+Positive Values Count: 5
+Negative Values Count: 4
+Zero Values Count    : 3
+Even Integers Count  : 7
+Odd Integers Count   : 1
+Sum of Positive Values: 125
+Sum of Negative Values: -210
+Highest Count Category: Positive
